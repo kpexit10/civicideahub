@@ -1,0 +1,9 @@
+{
+  "_id": 2,
+  "username": "#username#",
+  "emailaddress": "#emailaddress#",
+  "passwordHash": "#passwordHash",
+  "name": "#actualName(optional)#",
+  "joinDate": "11/08/2017",
+  "modifyDate": "11/08/2017"
+}
